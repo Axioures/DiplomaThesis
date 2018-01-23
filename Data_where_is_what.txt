@@ -1,0 +1,35 @@
+Data used in the code. 
+
+PC: n12symi.cs.ntua.gr
+
+
+Videos:
+- /home/pkoutras/hmdb51_org/videos : HMDB51 videos
+- /ssd_data/UCF-101 : UCF101 videos
+- /ssd_data/hollywood2/Hollywood2/AVIClips : Hollywood2 videos
+- /home/vaggelis/mov_cvsp_videos : Cognimuse videos
+
+
+Extracted frames for each DB:
+- /home/vaggelis/mov_frames_jpg/all_frames : Cognimuse frames
+- /ssd_data/hmdb51_org_frames : HMDB51 frames
+- /ssd_data/UCF-101_frames : UCF101 frames
+- /ssd_data/hollywood2_frames : Hollywood2 frames
+
+
+Extracted improved trajectories:
+- /Data/hmdb51_iDT/ : Improved trajectories extracted for HMDB51
+- /Data/hollywood2_DT/ : Improved trajectories extracted for Hollywood2 (resized)
+- /Data/mov_cvsp_DT/ : Improved trajectories extracted for Cognimuse
+
+
+Extracted C3D features:
+- /home/vaggelis/mov_frames_jpg/c3d/all_features : C3D features for Cognimuse
+- /home/vaggelis/hmdb51_frames_c3d/c3d : C3D features for HMDB51
+- /home/vaggelis/hollywood2_c3d/c3d : C3D features for Hollywood2
+
+
+Extracted TSN features:
+- /home/vaggelis/mov_frames_jpg/classification/tsn : TSN features for Cognimuse
+- /home/vaggelis/hmdb51_frames_c3d/classification/tsn : TSN features for HMDB51
+- /home/vaggelis/hollywood2_c3d/classification/tsn : TSN features for Hollywood2
