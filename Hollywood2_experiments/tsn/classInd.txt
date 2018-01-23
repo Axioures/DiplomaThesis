@@ -1,0 +1,12 @@
+1 AnswerPhone
+2 DriveCar
+3 Eat
+4 FightPerson
+5 GetOutCar
+6 HandShake
+7 HugPerson
+8 Kiss
+9 Run
+10 SitDown
+11 SitUp
+12 StandUp
