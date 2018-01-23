@@ -1,0 +1,8 @@
+1 cry
+2 pick
+3 point__at_something
+4 ride_horse
+5 running
+6 smile
+7 standing_up
+8 wave_hands
